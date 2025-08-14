@@ -1,15 +1,14 @@
-## prompt-engineering-
+# PROMPT ENGINEERING
 # EX NO 1
 
 # Experiment: Develop a comprehensive report for the following exercises:
 
-1.Explain the foundational concepts of Generative AI.
-2.Focusing on Generative AI architectures. (like transformers).
-3.Generative AI applications.
-4.Generative AI impact of scaling in LLMs
+# 1.Explain the foundational concepts of Generative AI.
+# 2.Focusing on Generative AI architectures. (like transformers).
+# 3.Generative AI applications.
+# 4.Generative AI impact of scaling in LLMs
 
-Comprehensive Report on Generative AI
-1. Foundational Concepts of Generative AI
+# 1. Foundational Concepts of Generative AI
 
 Generative Artificial Intelligence (Generative AI) refers to a class of AI systems designed to create new content—such as text, images, audio, video, and code—that mimics human-like creativity and reasoning.
 Unlike traditional AI models that primarily classify, predict, or retrieve information, generative AI learns the underlying patterns and distributions of data and produces novel outputs.
